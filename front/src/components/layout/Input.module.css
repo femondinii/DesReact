@@ -1,0 +1,21 @@
+.inside {
+    margin: 0;
+    height: 35px;
+    padding-left: 10px;
+    width: 550px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 7px;
+    color: #a8a8a8;
+}
+
+.inside::placeholder{
+    color: #a8a8a8;
+}
+
+.inside.home{
+    width: 150px;
+    color: black;
+    border: 1px solid white;
+    background-color: white;
+}

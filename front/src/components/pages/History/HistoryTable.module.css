@@ -1,0 +1,23 @@
+.tbl {
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+    border-collapse: collapse;
+    margin: auto; 
+    border: 1px solid black;
+}
+
+.tbl th {
+    background-color: #034C8C;
+    width: 140px;
+    padding: 10px;
+    color: white;
+}
+
+.tbl td{
+    border: 1px solid black;
+    color: black;
+    background-color: white;
+    text-align: center;
+}
+

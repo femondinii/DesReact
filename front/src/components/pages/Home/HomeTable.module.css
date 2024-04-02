@@ -1,0 +1,32 @@
+.tbl {
+    justify-content: center;
+    width: 50%;
+    align-items: center;
+    border-collapse: collapse;
+    margin: auto; 
+    border: 1px solid black;
+}
+
+.tbl th {
+    background-color: #034C8C;
+    width: 140px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+.tbl td{
+    border: 1px solid black;
+    color: black;
+    background-color: white;
+    text-align: center;
+}
+
+.buttons {
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+}
+
+

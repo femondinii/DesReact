@@ -1,0 +1,24 @@
+.custumers {
+    justify-content: center;
+    width: 50%;
+    align-items: center;
+    border-collapse: collapse;
+    margin: auto; 
+    border: 1px solid black;
+}
+
+.custumers th {
+    background-color: #034C8C;
+    width: 140px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+.custumers td{
+    border: 1px solid black;
+    color: black;
+    background-color: white;
+    text-align: center;
+}
+
